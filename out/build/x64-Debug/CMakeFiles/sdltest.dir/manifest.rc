@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "F:/forgit/gitrep/mp4player/mp4player/out/build/x64-Debug/CMakeFiles/sdltest.dir/embed.manifest"

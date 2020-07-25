@@ -1,0 +1,27 @@
+# ninja log v5
+2	731	617308560	CMakeFiles/testpl.dir/leiplayer.cpp.obj	6996e459d58e4632
+2	1435	617285030	CMakeFiles/mp4player.dir/mp4player.cpp.obj	7361d33f200b2958
+1435	2039	617285031	mp4player.exe	f1f7680f2d1f96c
+8	290	617311470	build.ninja	1823c4a822229d6
+2	936	617288738	CMakeFiles/sdltest.dir/main.cpp.obj	3030602375c400f2
+1456	3031	617306389	playertest.exe	32a28c26dce3d259
+936	1469	617288739	sdltest.exe	f912409d932574fe
+2	1455	617306388	CMakeFiles/playertest.dir/mp4player.cpp.obj	a39038cf73b92ac8
+1	402	617309993	CMakeFiles/testpl.dir/leiaudio.cpp.obj	f1d8104c7ac6d97f
+3	713	617311534	CMakeFiles/testpl.dir/zhtest.cpp.obj	8a1474b336749667
+2	636	617311571	CMakeFiles/testpl.dir/zhtest.cpp.obj	8a1474b336749667
+2	748	617311602	CMakeFiles/testpl.dir/zhtest.cpp.obj	8a1474b336749667
+3	936	617311679	CMakeFiles/testpl.dir/zhtest.cpp.obj	8a1474b336749667
+3	710	617311735	CMakeFiles/testpl.dir/zhtest.cpp.obj	8a1474b336749667
+3	813	617311747	CMakeFiles/testpl.dir/zhtest.cpp.obj	8a1474b336749667
+3	692	617311825	CMakeFiles/testpl.dir/zhtest.cpp.obj	8a1474b336749667
+692	1344	617311825	testpl.exe	d18ad0b64c9d888d
+2	943	617311868	CMakeFiles/testpl.dir/zhtest.cpp.obj	8a1474b336749667
+944	1863	617311869	testpl.exe	d18ad0b64c9d888d
+2	1734	617312788	CMakeFiles/testpl.dir/zhtest.cpp.obj	8a1474b336749667
+1734	2511	617312789	testpl.exe	d18ad0b64c9d888d
+22	319	617398485	build.ninja	1823c4a822229d6
+0	4644	617398489	CMakeFiles/mp4player.dir/zhplayer.cpp.obj	e267c140fd3ecb59
+4644	8353	617398493	mp4player.exe	a742307efc80bf19
+2	1671	617399211	CMakeFiles/mp4player.dir/zhplayer.cpp.obj	e267c140fd3ecb59
+1671	2791	617399212	mp4player.exe	a742307efc80bf19
